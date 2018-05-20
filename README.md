@@ -2,6 +2,7 @@
 composer常用包地址简介
 
 #我收集制作的
+(https://packagist.org/packages/logoove/)
 
 ### 常用函数工具类
 `composer require logoove/fn`
