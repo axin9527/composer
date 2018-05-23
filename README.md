@@ -22,7 +22,10 @@ composer常用包地址简介
 `composer require logoove/smtp  dev-master`
 ###  日志生成类5kb无任何依赖
 `composer require logoove/log  dev-master`
-#其他人制作的
+###  分页类
+`composer require logoove/pager dev-master`
+
+# 其他人制作的
 
 ### 验证器类
 `composer require particle/validator`
