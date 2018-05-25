@@ -24,6 +24,8 @@ composer常用包地址简介
 `composer require logoove/log  dev-master`
 ###  分页类
 `composer require logoove/pager dev-master`
+### zip压缩解压缩下载类
++`composer require logoove/zip dev-master`
 
 # 其他人制作的
 
